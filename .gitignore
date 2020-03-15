@@ -130,3 +130,4 @@ dmypy.json
 
 # Personal addition
 .idea/
+tcpsite/tcpsite/settings/secret.json
